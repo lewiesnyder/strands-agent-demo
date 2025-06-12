@@ -7,7 +7,7 @@ A simple demo of the [Strands Agent framework](https://aws.amazon.com/blogs/open
 - [docker](https://www.docker.com/) to run the [MCP server](https://github.com/lewiesnyder/mcp-experiment)
 - [ollama](https://ollama.com/) to run the model
     - [llama3.2](https://ollama.com/library/llama3.2) for inference
-- or 
+- or api access to the models and provider of our choice
 
 ## Installation
 - create and activeate the virtual env: `uv venv && source .venv/bin/activate`
